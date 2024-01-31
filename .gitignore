@@ -1,3 +1,2 @@
-.vercel
-nodemodules
-build
+/node_modules
+/dist
